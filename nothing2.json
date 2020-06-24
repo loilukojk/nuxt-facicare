@@ -1,0 +1,130 @@
+{
+  "assignInfo": {
+    "assignDate": "10/06/2020 22:36:17",
+    "assignee": [
+      {
+        "id": "0987654322",
+        "isTeamLeader": true,
+        "name": "Lý Chiêu",
+        "phone": "0987654322"
+      },
+      {
+        "id": "0987654321",
+        "isTeamLeader": false,
+        "name": "Nguyễn Công Phượng",
+        "phone": "0987654321",
+        "statusTask": "1"
+      },
+      {
+        "id": "0335667889",
+        "isTeamLeader": false,
+        "name": "Kiếm Khách",
+        "phone": "0335667889",
+        "statusTask": "0"
+      }
+    ],
+    "assigneeIDList": ["0987654322", "0987654321", "0335667889"],
+    "assigner": {
+      "id": "067e3364-9924-11ea-8aa5-daae440af064",
+      "name": "facicare admin",
+      "phone": "0344222888"
+    },
+    "deadline": "13/06/2020 00:00:00",
+    "workDate": "10/06/2020 00:00:00"
+  },
+  "chosenServices": ["DN"],
+  "customerDirectContact": {
+    "address": "Hhh, Phường 05, Quận 5, 42 PNT",
+    "name": "Lý Chiêu",
+    "phone": "0987654322"
+  },
+  "customerInfo": {
+    "address": "Hhh, Phường 05, Quận 5, 42 PNT",
+    "id": "0987654322",
+    "name": "Lý Chiêu",
+    "phone": "0987654322"
+  },
+  "deviceid": "eW3Jes0izgY:APA91bGTlKSbRHlfiQ5FOpRMKO0X8FWH02kyTjxGKN7jQYaimaVYVPEEd_MFmCzpH8xGoaDecvILxzA0MtOaVh9bPYbZ9raAhhS8chqHw6K3CJfXub3obS0qPYKqd_EyweYqKlyxFaj6;IOS",
+  "expectedAddress": "Hhh, Phường 05, Quận 5, 42 PNT",
+  "expectedTime": "10/06/2020 22:31:42",
+  "hasContract": "0",
+  "id": "DN009",
+  "imageList": [
+    "http://203.162.141.37:9000/miniobucket1/1591803141083.jpeg",
+    "http://203.162.141.37:9000/miniobucket1/1591803141112.jpeg",
+    "http://203.162.141.37:9000/miniobucket1/1591803141136.jpeg"
+  ],
+  "linkContract": "",
+  "mobileChannel": "eW3Jes0izgYAPA91bGTlKSbRHlfiQ5FOpRMKO0X8FWH02kyTjxGKN7jQYaimaVYVPEEd_MFmCzpH8xGoaDecvILxzA0MtOaVh9bPYbZ9raAhhS8chqHw6K3CJfXub3obS0qPYKqd_EyweYqKlyxFaj6",
+  "note": "",
+  "orderValue": {
+    "details": [
+      {
+        "charge": "180000",
+        "description": "HT điện nhẹ",
+        "id": "DN",
+        "image": "http://203.162.141.37:9000/crmappservice/img9.jpeg",
+        "index": 3,
+        "name": "HT điện nhẹ"
+      }
+    ],
+    "sum": "180.000"
+  },
+  "paymentInfo": {
+    "invoice": {
+      "client": {
+        "environment": "sandbox",
+        "paypal_sdk_version": "2.17.0",
+        "platform": "iOS",
+        "product_name": "PayPal iOS SDK"
+      },
+      "response": {
+        "create_time": "2020-06-10T15:35:23Z",
+        "id": "PAY-13R61337AL087081AL3QP3OY",
+        "intent": "sale",
+        "state": "approved"
+      },
+      "response_type": "payment"
+    },
+    "paymentDate": "10/06/2020 22:35:31",
+    "paymentMethod": "1",
+    "status": "1"
+  },
+  "priceQuoteFileLink": "",
+  "priceQuoteRequests": [],
+  "priceQuoteTimes": "0",
+  "quote_time": "",
+  "status": "Chưa xong việc, đã thanh toán",
+  "surveyByTechnicianInfo": {
+    "assignee": {
+      "id": "0987654322",
+      "name": "Lý Chiêu",
+      "phone": "0987654322"
+    },
+    "content": {
+      "chosenServices": ["DN"],
+      "imageList": [
+        "http://203.162.141.37:9000/miniobucket1/1591803141083.jpeg",
+        "http://203.162.141.37:9000/miniobucket1/1591803141112.jpeg",
+        "http://203.162.141.37:9000/miniobucket1/1591803141136.jpeg"
+      ],
+      "orderValue": {
+        "details": [
+          {
+            "charge": "180000",
+            "description": "HT điện nhẹ",
+            "id": "DN",
+            "image": "http://203.162.141.37:9000/crmappservice/img9.jpeg",
+            "index": 3,
+            "name": "HT điện nhẹ"
+          }
+        ],
+        "sum": "180000"
+      },
+      "videoList": "http://203.162.141.37:9000/miniobucket1/1591803141208.quicktime"
+    },
+    "deadline": "11/06/2020 00:00:00",
+    "workDate": "10/06/2020 00:00:00"
+  },
+  "videoList": "http://203.162.141.37:9000/miniobucket1/1591803141208.quicktime"
+}

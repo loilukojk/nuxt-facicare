@@ -1,0 +1,85 @@
+{
+  "assignInfo": {
+    "assignDate": "",
+    "assignee": [],
+    "assigneeIDList": [],
+    "assigner": { "id": "", "name": "", "phone": "" },
+    "deadline": "",
+    "workDate": ""
+  },
+  "chosenServices": ["VS"],
+  "customerDirectContact": {
+    "address": "Bbh, Phường 05, Quận 3, 42 Phạm Ngọc Thạch",
+    "name": "Nguyễn Công Phượng",
+    "phone": "0987654321"
+  },
+  "customerInfo": {
+    "address": "Bbh, Phường 05, Quận 3, 42 Phạm Ngọc Thạch",
+    "id": "123456",
+    "name": "Nguyễn Công Phượng",
+    "phone": "0987654321"
+  },
+  "deviceid": "fHy9FWlB2gA:APA91bFngT_kycQo3rz0BWRPYsVHbxOaaVneh26ZugEVoIYQQCsL0Lp9QcIsTHW08N54v3YRBFFG4vshZvStWwGUd6pJMBzcEbW-fdHC5p_ne-5l-STWFI0Nid7TWN5nD4cjC92q42vh;ANDROID",
+  "expectedAddress": "Bbh, Phường 05, Quận 3, 42 Phạm Ngọc Thạch",
+  "expectedTime": "23/05/2020 13:53:13",
+  "hasContract": "0",
+  "id": "VS008_DN003",
+  "imageList": ["http://203.162.141.37:9000/crmappservice/img10.jpeg"],
+  "linkContract": "",
+  "mobileChannel": "fHy9FWlB2gAAPA91bFngT_kycQo3rz0BWRPYsVHbxOaaVneh26ZugEVoIYQQCsL0Lp9QcIsTHW08N54v3YRBFFG4vshZvStWwGUd6pJMBzcEbW-fdHC5p_ne-5l-STWFI0Nid7TWN5nD4cjC92q42vh",
+  "note": "",
+  "orderValue": {
+    "details": [
+      {
+        "charge": "199.000",
+        "description": "VS công nghiệp",
+        "id": "VS",
+        "image": "http://203.162.141.37:9000/crmappservice/img10.jpeg",
+        "index": 11,
+        "name": "VS công nghiệp"
+      }
+    ],
+    "sum": "199.000"
+  },
+  "paymentInfo": {
+    "invoice": {},
+    "paymentDate": "",
+    "paymentMethod": "0",
+    "status": "0"
+  },
+  "priceQuoteRequests": [
+    "Báo giá lại đi, đắt quá",
+    "Bạn à, sống cần có tình người, đâu phải người ta muốn đồ dùng trong nhà bị hư để gọi bạn sửa đâu, ai cũng muốn có được cuộc sống hạnh phúc, vui vẻ bên gia định, mình cần tiết kiệm tiền chơi lô đề nữa nên bạn giảm giá sửa chữa cho mình một xíu đi"
+  ],
+  "priceQuoteTimes": "2",
+  "quote_time": "",
+  "status": "1a",
+  "surveyByTechnicianInfo": {
+    "assignee": {
+      "id": "0987654321",
+      "name": "Nguyễn Công Phượng",
+      "phone": "0987654321"
+    },
+    "content": {
+      "chosenServices": ["VS"],
+      "imageList": ["http://203.162.141.37:9000/crmappservice/img10.jpeg"],
+      "orderValue": {
+        "details": [
+          {
+            "charge": "99.000",
+            "description": "VS công nghiệp",
+            "id": "VS",
+            "image": "http://203.162.141.37:9000/crmappservice/img10.jpeg",
+            "index": 11,
+            "name": "VS công nghiệp"
+          }
+        ],
+        "sum": "99.000"
+      },
+      "videoList": ""
+    },
+    "deadline": "23/05/2020 12:00:00",
+    "workDate": "23/05/2020 00:00:00"
+  },
+  "videoList": ""
+}
